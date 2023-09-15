@@ -112,7 +112,7 @@ header nav ul li a:hover {
 .banner{
     min-height: 100vh;
     width: 100%;
-    background-image: url("../images/3.jpg");
+    background-image: url("../Images/m1.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
@@ -257,22 +257,22 @@ header nav ul li a:hover {
 
 .programs .boxContainer .box:nth-child(1) .cardImage,
 .programs .boxContainer .box:nth-child(1) .cardImage::after {
-    background-image: url("../Images/Don.jpg");
+    background-image: url("../Images/clothes.png");
 }
 
 .programs .boxContainer .box:nth-child(2) .cardImage,
 .programs .boxContainer .box:nth-child(2) .cardImage::after {
-    background-image: url("../Images/King.jpg");
+    background-image: url("../Images/food.png");
 }
 
 .programs .boxContainer .box:nth-child(3) .cardImage,
 .programs .boxContainer .box:nth-child(3) .cardImage::after {
-    background-image: url("../Images/1.jpg");
+    background-image: url("../Images/medicines.png");
 }
 
 .programs .boxContainer .box:nth-child(4) .cardImage,
 .programs .boxContainer .box:nth-child(4) .cardImage::after {
-    background-image: url("../Images/2.jpg");
+    background-image: url("../Images/stationary.png");
 }
 
 .programs .boxContainer .box:hover .cardImage::after {
@@ -361,7 +361,7 @@ header nav ul li a:hover {
 }
 
 .gallery .galleryContainer{
-    column-count: 4;
+    column-count: 3;
     column-gap: 20px;
 }
 
@@ -372,7 +372,7 @@ header nav ul li a:hover {
 }
 
 .gallery .galleryContainer img {
-    width: 100%;
+    width: 75%;
     display:block;
     transition: 0.4s;
 }
@@ -399,7 +399,7 @@ header nav ul li a:hover {
 }
 
 .join{
-    background-image: url("../Images/04.jpg");
+    background-color: #e43a47;
     color: #fff;
 }
 
@@ -555,7 +555,7 @@ footer .newsLetterContainer input {
     header nav ul {
         position:absolute;
         right: -400px;
-        top: 53px;
+        top:53px;
         transition: 0.5s;
     }
 
@@ -584,9 +584,7 @@ footer .newsLetterContainer input {
     .banner h1{
         width: 70%;
     }
-    #aboutSection p{
-        text-align: justify;
-    }
+
     #aboutSection .cards > div:hover{
         width: 350px;
     }
@@ -661,6 +659,69 @@ footer .newsLetterContainer input {
         margin-top: 100px;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
